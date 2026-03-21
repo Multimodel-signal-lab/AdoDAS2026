@@ -1,0 +1,13 @@
+name: adodas
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.10
+  - pytorch=2.10
+  - numpy=1.26
+  - pandas=2.2
+  - pyyaml=6.0
+  - scikit-learn=1.5
+  - tqdm=4.67
+  - pyarrow=16.1
